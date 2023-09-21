@@ -5,13 +5,12 @@ name: Django Test
 
 on:
   push:
-    branches: [ "dev" ]
+    branches: ["dev"]
   pull_request:
-    branches: [ "dev" ]
+    branches: ["dev"]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -28,7 +27,7 @@ jobs:
 
     services:
       postgres_main:
-        image: postgres:15   # Docker
+        image: postgres:15 # Docker
         env:
           POSTGRES_USER: ${{ secrets.DB_USER }}
           POSTGRES_PASSWORD: ${{ secrets.DB_PWD }}
@@ -37,27 +36,28 @@ jobs:
           - 5432:5432
 
     steps:
-    - uses: actions/checkout@v3
-    - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v3
-      with:
-        python-version: ${{ matrix.python-version }}
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        python -m pip install flake8 
-        make dev install
-    - name: Lint with flake8
-      run: |
-        # stop the build if there are Python syntax errors or undefined names
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
-        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-    - name: Test with Django Test
-      run: |
-        make dev-test
+      - uses: actions/checkout@v3
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v3
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install flake8 
+          make dev install
+      - name: Lint with flake8
+        run: |
+          # stop the build if there are Python syntax errors or undefined names
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+          # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
+          flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+      - name: Test with django test
+        run: |
+          make dev-test
 
 
-        # This workflow will install Python dependencies, run tests and lint with a variety of Python versions
+          # This workflow will install Python dependencies, run tests and lint with a variety of Python versions
+
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
 

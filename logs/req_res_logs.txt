@@ -163,3 +163,8 @@ INFO 2023-09-19 16:14:00,772 log :: GET | testserver/ | text/plain | Mozilla/5.0
 INFO 2023-09-19 16:14:01,583 log :: GET | testserver/ | text/plain | Mozilla/5.0
 INFO 2023-09-19 16:14:01,950 log :: GET | testserver/resource/1 | text/plain | Mozilla/5.0
 INFO 2023-09-19 16:14:02,671 log :: GET | testserver/resource/6 | text/plain | Mozilla/5.0
+INFO 2023-09-21 11:20:48,473 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-21 11:20:48,854 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-21 11:20:49,562 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-21 11:20:49,976 log :: GET | testserver/resource/1 | text/plain | Mozilla/5.0
+INFO 2023-09-21 11:20:50,644 log :: GET | testserver/resource/6 | text/plain | Mozilla/5.0
