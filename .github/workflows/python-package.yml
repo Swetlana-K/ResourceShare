@@ -5,9 +5,9 @@ name: Python package
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "dev" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "dev" ]
 
 jobs:
   build:
@@ -16,7 +16,15 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        python-version: ["3.9", "3.10", "3.11"]
+        python-version: ["3.11"]
+
+    env:
+      DB_USER: ${{ secrets.DB_USER }}
+      DB_PWD: ${{ secrets.DB_PWD }}
+      DB_HOST: ${{ vars.DB_HOST }}
+      DB_NAME: ${{ vars.DB_NAME }}
+      DB_PORT: ${{ vars.DB_PORT }}
+      SECRET_KEY: ${{ secrets.SECRET_KEY }}
 
     steps:
     - uses: actions/checkout@v3
