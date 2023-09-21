@@ -1,0 +1,165 @@
+[info] GET | 127.0.0.1:8000/admin/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.210269 >> GET | 127.0.0.1:8000/admin/
+[info] GET | 127.0.0.1:8000/favicon.ico | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.019779 >> GET | 127.0.0.1:8000/favicon.ico
+[info] GET | 127.0.0.1:8000/admin/resources/resources/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.100042 >> GET | 127.0.0.1:8000/admin/resources/resources/
+[info] GET | 127.0.0.1:8000/admin/jsi18n/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.046886 >> GET | 127.0.0.1:8000/admin/jsi18n/
+[info] GET | 127.0.0.1:8000/polls/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.005714 >> GET | 127.0.0.1:8000/polls/
+[info] GET | 127.0.0.1:8000/user/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.004544 >> GET | 127.0.0.1:8000/user/
+[info] GET | 127.0.0.1:8000/user/list/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.020158 >> GET | 127.0.0.1:8000/user/list/
+[info] GET | 127.0.0.1:8000/resources/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.005255 >> GET | 127.0.0.1:8000/resources/
+[info] GET | 127.0.0.1:8000/resources/1 | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.003674 >> GET | 127.0.0.1:8000/resources/1
+[info] GET | 127.0.0.1:8000/resources/6 | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.005710 >> GET | 127.0.0.1:8000/resources/6
+[info] GET | 127.0.0.1:8000/resource/6 | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.033613 >> GET | 127.0.0.1:8000/resource/6
+[info] GET | 127.0.0.1:8000/resource/1 | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.056838 >> GET | 127.0.0.1:8000/resource/1
+[info] GET | 127.0.0.1:8000/resource/7 | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.056905 >> GET | 127.0.0.1:8000/resource/7
+[info] GET | 127.0.0.1:8000/r | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.006458 >> GET | 127.0.0.1:8000/r
+[info] GET | 127.0.0.1:8000/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.023616 >> GET | 127.0.0.1:8000/
+[info] GET | 127.0.0.1:8000/admin/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.103746 >> GET | 127.0.0.1:8000/admin/
+[info] GET | 127.0.0.1:8000/admin/login/?next=/admin/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.066669 >> GET | 127.0.0.1:8000/admin/login/?next=/admin/
+[info] GET | 127.0.0.1:8000/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+[info] EXECUTION TIME 0:00:00.086953 >> GET | 127.0.0.1:8000/
+GET | 127.0.0.1:8000/admin/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+GET | 127.0.0.1:8000/resource/post/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+GET | 127.0.0.1:8000/resource/post/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+GET | 127.0.0.1:8000/resource/post/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+GET | 127.0.0.1:8000/admin/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+GET | 127.0.0.1:8000/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+GET | 127.0.0.1:8000/admin/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+GET | 127.0.0.1:8000/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 09:18:03,786 log :: GET | 127.0.0.1:8000/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 09:18:05,359 log :: GET | 127.0.0.1:8000/admin/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 09:18:06,762 log :: GET | 127.0.0.1:8000/resource/post/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 11:24:58,492 log :: GET | 127.0.0.1:8000/resource/post/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 11:24:59,679 log :: GET | 127.0.0.1:8000/admin/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 11:47:00,920 log :: GET | 127.0.0.1:8000/admin/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 11:47:39,443 log :: GET | 127.0.0.1:8000/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 11:47:41,285 log :: GET | 127.0.0.1:8000/admin/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 11:49:09,886 log :: GET | 127.0.0.1:8000/admin/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 11:49:11,398 log :: GET | 127.0.0.1:8000/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 10:03:34,368 log :: GET | 127.0.0.1:8000/resource/post/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 10:03:35,919 log :: GET | 127.0.0.1:8000/admin/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 10:03:37,221 log :: GET | 127.0.0.1:8000/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-15 10:05:34,721 log :: GET | 127.0.0.1:8000/ | text/plain | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+INFO 2023-09-19 11:19:59,349 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:21:12,649 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:22:38,018 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:28:17,988 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:28:18,021 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:28:39,926 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:28:39,950 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:33:47,714 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:33:47,742 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:34:43,537 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:34:43,577 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:38:58,303 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:38:58,334 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:38:58,345 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:38:58,356 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:40:59,797 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:40:59,832 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:40:59,839 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:40:59,854 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:45:48,022 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:45:48,475 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:45:48,481 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:45:48,491 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:50:06,065 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:50:06,520 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:51:05,928 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:51:06,387 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:58:34,669 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:58:35,096 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 11:59:59,550 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:00:00,022 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:01:49,534 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:01:49,988 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:01:49,999 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:02:59,513 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:03:00,011 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:03:39,591 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:03:40,027 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:05:12,904 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:05:13,337 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:06:52,600 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:06:53,019 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:11:11,891 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:11:12,290 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:18:24,641 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:18:25,123 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:18:25,133 log :: GET | testserver/resource/1 | text/plain | Mozilla/5
+INFO 2023-09-19 12:19:32,604 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:19:33,047 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:19:33,059 log :: GET | testserver/resource/1 | text/plain | Mozilla/5
+INFO 2023-09-19 12:25:03,174 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:25:03,575 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:25:03,585 log :: GET | testserver/resource/1 | text/plain | Mozilla/5
+INFO 2023-09-19 12:25:03,600 log :: GET | testserver/resource/1 | text/plain | Mozilla/5
+INFO 2023-09-19 12:29:18,418 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:29:18,874 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:29:18,886 log :: GET | testserver/resource/1 | text/plain | Mozilla/5
+INFO 2023-09-19 12:29:18,900 log :: GET | testserver/resource/1 | text/plain | Mozilla/5
+INFO 2023-09-19 12:31:57,607 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:31:58,045 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:31:58,052 log :: GET | testserver/resource/1 | text/plain | Mozilla/5
+INFO 2023-09-19 12:31:58,063 log :: GET | testserver/resource/1 | text/plain | Mozilla/5
+INFO 2023-09-19 12:46:57,666 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:46:57,964 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:46:58,539 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:46:58,840 log :: GET | testserver/resource/1 | text/plain | Mozilla/5.0
+INFO 2023-09-19 12:46:59,388 log :: GET | testserver/resource/6 | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:02:30,355 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:02:30,768 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:02:31,557 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:02:31,949 log :: GET | testserver/resource/1 | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:02:32,738 log :: GET | testserver/resource/6 | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:08:41,183 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:08:41,599 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:08:42,370 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:08:42,801 log :: GET | testserver/resource/1 | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:08:43,703 log :: GET | testserver/resource/6 | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:12:14,187 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:12:14,620 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:12:15,406 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:12:15,793 log :: GET | testserver/resource/1 | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:12:16,603 log :: GET | testserver/resource/6 | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:13:16,140 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:13:16,533 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:13:17,201 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:13:17,558 log :: GET | testserver/resource/1 | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:13:18,399 log :: GET | testserver/resource/6 | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:18:00,092 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:18:00,467 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:18:01,196 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:18:01,540 log :: GET | testserver/resource/1 | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:18:02,310 log :: GET | testserver/resource/6 | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:19:51,953 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:19:52,314 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:19:53,061 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:19:53,438 log :: GET | testserver/resource/1 | text/plain | Mozilla/5.0
+INFO 2023-09-19 13:19:54,164 log :: GET | testserver/resource/6 | text/plain | Mozilla/5.0
+INFO 2023-09-19 16:11:14,993 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 16:11:15,379 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 16:11:16,009 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 16:11:16,306 log :: GET | testserver/resource/1 | text/plain | Mozilla/5.0
+INFO 2023-09-19 16:11:16,977 log :: GET | testserver/resource/6 | text/plain | Mozilla/5.0
+INFO 2023-09-19 16:14:00,331 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 16:14:00,772 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 16:14:01,583 log :: GET | testserver/ | text/plain | Mozilla/5.0
+INFO 2023-09-19 16:14:01,950 log :: GET | testserver/resource/1 | text/plain | Mozilla/5.0
+INFO 2023-09-19 16:14:02,671 log :: GET | testserver/resource/6 | text/plain | Mozilla/5.0
